@@ -3,7 +3,7 @@
 
 [![](https://jitpack.io/v/kikappsmx/imagepicker.svg)](https://jitpack.io/#kikappsmx/imagepicker)
 
-ImagePicker is a simple library designed to pick images from camera or gallery.
+ImagePicker is a simple Android library designed to pick images from camera or gallery.
 
 ![Screenshot](sample.gif)
 
