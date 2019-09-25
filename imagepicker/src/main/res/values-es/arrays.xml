@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="source_types">
+        <item>Cámara</item>
+        <item>Galeria</item>
+    </string-array>
+</resources>
